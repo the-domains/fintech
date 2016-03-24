@@ -1,0 +1,28 @@
+name: Fintech
+favicon: null
+layout_spectrum: 0.39067672938108444
+typography_spectrum: 0.8676316244527698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4764574400614947
+  lightness: 0.7347686847206205
+  saturation: 0.7902306676842272
+  rhythmicContrast: 0.9078302839770913
+purpose: []
